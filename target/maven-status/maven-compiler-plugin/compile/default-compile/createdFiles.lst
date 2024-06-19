@@ -1,0 +1,10 @@
+model\Categoria.class
+dao\CategoriaDAO.class
+views\diegoclaseconeXion.class
+com\configs\ConexionDB.class
+Controller\CategoriaController.class
+Controller\ProductoController.class
+model\Producto.class
+views\CategoriaView.class
+views\ProductoView.class
+dao\ProductoDAO.class
